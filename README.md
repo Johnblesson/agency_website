@@ -1,2 +1,3 @@
-# agency_website
-This project was built with HTML, CSS &amp; JAVASCRIPT
+# Creative Agency Website
+
+> Simple HTML/CSS website
